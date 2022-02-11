@@ -1,0 +1,32 @@
+
+
+.pano-image {
+
+  position:absolute;
+  top:0px;
+  right:0px;
+  bottom:0px;
+  left:0px;
+
+}
+
+.row {
+  display: flex;
+}
+
+.column {
+  flex: 50%;
+}
+
+body {
+  background-color: #012445;
+}
+
+h2 {
+  color: white;
+}
+
+p {
+  color: white;
+}
+
